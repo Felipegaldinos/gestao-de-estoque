@@ -10,3 +10,10 @@ Este é um simples sistema de gerenciamento de estoque desenvolvido em Python. E
 - Atualizar a quantidade ou o preço de um item.
 - Listar todos os produtos no estoque.
 - Buscar um produto específico pelo nome.
+
+## Melhorias Futuras
+
+-Implementar validação para as entradas do usuário.
+-Permitir persistência de dados utilizando arquivos JSON ou CSV.
+-Melhorar a interface de exibição usando bibliotecas como tabulate.
+-Adicionar testes automatizados para garantir a funcionalidade do sistema.
